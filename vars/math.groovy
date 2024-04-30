@@ -1,11 +1,10 @@
-
 def sum (a,b)
 {
   echo "the sum of ${a} and ${b} is ${a+b}"
 }
 def sub (a,b)
 {
-  echo "the subtraction of $ {a} and ${b} and ${a-b}"
+  echo "the subtraction of ${a} and ${b} and ${a-b}"
 }
 def mul (a,b)
 {
